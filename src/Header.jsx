@@ -1,6 +1,8 @@
 function Header() {
     return (
-      <div>Header</div>
+      <div>
+        Welcome to Firebase Demo! You have successfully logged in after  creating an Account for yourself.
+      </div>
     )
   }
   
